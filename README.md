@@ -69,3 +69,11 @@ This project analyzes and compares the performance of multiple sorting algorithm
 
 
 ## 📂 Project Structure
+
+```
+sorting-performance-study/
+│
+├── sorting_performance_study.ipynb   # Contains sorting algorithm implementations, experiments, and analysis
+├── README.md                         # Project documentation and explanation
+├── results_graph.png                 # Visualization of sorting performance comparison
+```
