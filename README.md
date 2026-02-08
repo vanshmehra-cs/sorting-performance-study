@@ -77,3 +77,41 @@ sorting-performance-study/
 ├── README.md                         # Project documentation and explanation
 ├── results_graph.png                 # Visualization of sorting performance comparison
 ```
+
+## 🚀 How to Run This Project
+
+### Prerequisites
+Make sure you have the following installed:
+
+- Python 3.x
+- Jupyter Notebook or Google Colab
+- Required Python libraries:
+  - matplotlib
+  - random
+  - time
+
+
+### Method 1: Run Using Google Colab (Recommended)
+
+1. Download the notebook from this repository.
+2. Open Google Colab: https://colab.research.google.com
+3. Click **Upload Notebook**
+4. Upload `sorting_performance_study.ipynb`
+5. Click **Runtime → Run All**
+
+
+### Method 2: Run Locally Using Jupyter Notebook
+
+1. Clone this repository:
+git clone https://github.com/vanshmehra-cs/sorting-performance-study.git
+
+2. Navigate into the project folder:
+cd sorting-performance-study
+
+3. Launch Jupyter Notebook:
+jupyter notebook
+
+4. Open the notebook file:
+sorting_performance_study.ipynb
+
+5. Run all cells to reproduce the experiment results.
